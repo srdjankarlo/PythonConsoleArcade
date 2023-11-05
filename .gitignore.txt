@@ -1,0 +1,2 @@
+# ignore whole directory relative to this gitignore path
+.idea/
